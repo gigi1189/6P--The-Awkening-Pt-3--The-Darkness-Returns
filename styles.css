@@ -1,0 +1,40 @@
+body {
+    color: white;
+    background-color: black;
+    font-family: Play;
+    width: 600px;
+    margin: auto;
+}
+
+.reset {
+    margin-top: 30px;
+}
+
+.all {
+    background: #4a4a4a;
+    padding: 30px;
+    text-align: center;
+    border: 7px solid #2e2e2e;
+    margin-top: 80px;
+}
+
+.blank {display: none;}
+
+.badEnding {
+    color: red;
+}
+
+.goodEnding {
+    color: #89dbff;
+}
+
+button {
+    background: white;
+    font-family: Play;
+    border-radius: 5px;
+    padding: 4px;
+}
+
+img {
+    width: 500px;
+}
